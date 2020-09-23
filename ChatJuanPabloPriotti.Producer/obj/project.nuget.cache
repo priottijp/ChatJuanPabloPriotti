@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w426/ao9RkL23cBin6GyfN2fC+bA8VGTD4Qa0mowgrghQGaxswTjYk2bEp8ijt7qftSMD3GmjiWLhz+76m5wlQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Jobsity\\ChatJuanPabloPriotti.Producer\\ChatJuanPabloPriotti.Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JP\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\JP\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
